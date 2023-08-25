@@ -26,7 +26,7 @@ Please note that we may review and accept contributions at our discretion, consi
 
 ## Contact
 
-If you have any questions, concerns, or feedback related to this repository, you can contact us at [contact@yourcompany.com](mailto:contact@yourcompany.com).
+If you have any questions, concerns, or feedback related to this repository, you can contact us at [contact@carbondevteam.com](mailto:contact@yourcompany.com).
 
 Thank you for your interest in Carbon Dev Team!
 
