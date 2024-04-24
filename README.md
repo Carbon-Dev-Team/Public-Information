@@ -1,16 +1,16 @@
 # Carbon Dev Team - Public Information Repository
 
-Welcome to the official public information repository of [Your Company Name]. This repository is intended to provide open and accessible information about our company, projects, and related resources.
+Welcome to the official public information repository of [Carbon Dev Team]. This repository is intended to provide open and accessible information about our company, projects, and related resources.
 
 ## Purpose
 
-This repository serves as a central hub for sharing public information and resources related to [Your Company Name]. It includes documents, guides, images, and other materials that are publicly available for educational and informational purposes.
+This repository serves as a central hub for sharing public information and resources related to [Carbon Dev Team]. It includes documents, guides, images, and other materials that are publicly available for educational and informational purposes.
 
 ## Usage Guidelines
 
 - You are welcome to view, reference, and use the information and resources in this repository for non-commercial purposes.
 - Please do not misrepresent or claim ownership of the information provided here.
-- If you wish to share or distribute any information from this repository, please attribute it to [Your Company Name] and include a link to the original source.
+- If you wish to share or distribute any information from this repository, please attribute it to [Carbon Dev Team] and include a link to the original source.
 
 ## How to Contribute
 
